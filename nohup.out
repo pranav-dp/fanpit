@@ -1,0 +1,82 @@
+
+> fanpit@0.1.0 start:api
+> node mockApi.js
+
+Mock API server listening at http://localhost:8080
+
+> fanpit@0.1.0 start:agent
+> node agentServer.js
+
+[dotenv@17.2.0] injecting env (1) from .env (tip: 🔐 prevent committing .env to code: https://dotenvx.com/precommit)
+LangGraph agent compiled.
+Agent server listening at http://localhost:8081
+
+> fanpit@0.1.0 start:api
+> node mockApi.js
+
+Mock API server listening at http://localhost:8080
+
+> fanpit@0.1.0 start:agent
+> node agentServer.js
+
+[dotenv@17.2.0] injecting env (1) from .env (tip: ⚙️  write to custom object with { processEnv: myObject })
+LangGraph agent with tool calling compiled.
+Agent server listening at http://localhost:8081
+/Users/pranav/Desktop/fanpit/fanpit/node_modules/@google/generative-ai/dist/index.js:434
+    throw new GoogleGenerativeAIFetchError(`Error fetching from ${url.toString()}: [${response.status} ${response.statusText}] ${message}`, response.status, response.statusText, errorDetails);
+          ^
+
+GoogleGenerativeAIFetchError: [GoogleGenerativeAI Error]: Error fetching from https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash:generateContent: [400 Bad Request] API key not valid. Please pass a valid API key. [{"@type":"type.googleapis.com/google.rpc.ErrorInfo","reason":"API_KEY_INVALID","domain":"googleapis.com","metadata":{"service":"generativelanguage.googleapis.com"}},{"@type":"type.googleapis.com/google.rpc.LocalizedMessage","locale":"en-US","message":"API key not valid. Please pass a valid API key."}]
+    at handleResponseNotOk (/Users/pranav/Desktop/fanpit/fanpit/node_modules/@google/generative-ai/dist/index.js:434:11)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async makeRequest (/Users/pranav/Desktop/fanpit/fanpit/node_modules/@google/generative-ai/dist/index.js:403:9)
+    at async generateContent (/Users/pranav/Desktop/fanpit/fanpit/node_modules/@google/generative-ai/dist/index.js:867:22)
+    at async RunnableCallable.callModel [as func] (/Users/pranav/Desktop/fanpit/fanpit/langgraph.js:43:20)
+    at async RunnableCallable.invoke (/Users/pranav/Desktop/fanpit/fanpit/node_modules/@langchain/langgraph/dist/utils.cjs:88:27)
+    at async RunnableSequence.invoke (/Users/pranav/Desktop/fanpit/fanpit/node_modules/@langchain/core/dist/runnables/base.cjs:1310:33)
+    at async _runWithRetry (/Users/pranav/Desktop/fanpit/fanpit/node_modules/@langchain/langgraph/dist/pregel/retry.cjs:76:22)
+    at async PregelRunner._executeTasksWithRetry (/Users/pranav/Desktop/fanpit/fanpit/node_modules/@langchain/langgraph/dist/pregel/runner.cjs:194:33)
+    at async PregelRunner.tick (/Users/pranav/Desktop/fanpit/fanpit/node_modules/@langchain/langgraph/dist/pregel/runner.cjs:75:55) {
+  status: 400,
+  statusText: 'Bad Request',
+  errorDetails: [
+    {
+      '@type': 'type.googleapis.com/google.rpc.ErrorInfo',
+      reason: 'API_KEY_INVALID',
+      domain: 'googleapis.com',
+      metadata: { service: 'generativelanguage.googleapis.com' }
+    },
+    {
+      '@type': 'type.googleapis.com/google.rpc.LocalizedMessage',
+      locale: 'en-US',
+      message: 'API key not valid. Please pass a valid API key.'
+    }
+  ],
+  pregelTaskId: 'b9eb22fb-0a4c-5500-9fa5-853c0e57827b'
+}
+
+Node.js v22.14.0
+
+> fanpit@0.1.0 start:api
+> node mockApi.js
+
+Mock API server listening at http://localhost:8080
+
+> fanpit@0.1.0 start:agent
+> node agentServer.js
+
+[dotenv@17.2.0] injecting env (1) from .env (tip: ⚙️  load multiple .env files with { path: ['.env.local', '.env'] })
+LangGraph agent with tool calling compiled.
+Agent server listening at http://localhost:8081
+
+> fanpit@0.1.0 start:api
+> node mockApi.js
+
+Mock API server listening at http://localhost:8080
+
+> fanpit@0.1.0 start:agent
+> node agentServer.js
+
+[dotenv@17.2.0] injecting env (1) from .env (tip: 🔐 prevent building .env in docker: https://dotenvx.com/prebuild)
+LangGraph agent with tool calling compiled.
+Agent server listening at http://localhost:8081

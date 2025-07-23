@@ -1,0 +1,171 @@
+{
+  "events": [
+    {
+      "title": "KONNECT - 10 Strangers One Table",
+      "organizer": "by KUP Coffee Roasters",
+      "tag": "meetup",
+      "date": "Jul 23",
+      "time": "7:30 PM - 9:30 PM",
+      "location": "Chennai",
+      "urgency": "Last Chance",
+      "price": "₹3200",
+      "image": "https://events.fanpit.live/_next/image?url=https%3A%2F%2Fqmjyigipuj.ap-south-1.awsapprunner.com%2Fevents%2Ffiles%2F686bb0a71ed0a860999116de&w=3840&q=75"
+    },
+    {
+      "title": "Fanpit | App Drop | Exclusive Event",
+      "organizer": "by Fanpit",
+      "tag": "meetup",
+      "date": "Jul 25",
+      "time": "7:00 PM - 11:30 PM",
+      "location": "Chennai",
+      "urgency": null,
+      "price": "Free",
+      "image": "https://events.fanpit.live/_next/image?url=https%3A%2F%2Fqmjyigipuj.ap-south-1.awsapprunner.com%2Fevents%2Ffiles%2F6863e1111ed0a860999116c6&w=3840&q=75"
+    },
+    {
+      "title": "Shoreline Showdown",
+      "organizer": "by HybridX",
+      "tag": "sports",
+      "date": "Jul 26",
+      "time": "6:00 AM - 9:00 AM",
+      "location": "Chennai",
+      "urgency": null,
+      "price": "₹499",
+      "image": "https://events.fanpit.live/_next/image?url=https%3A%2F%2Fqmjyigipuj.ap-south-1.awsapprunner.com%2Fevents%2Ffiles%2F68807fcf1bfaa712284788f4&w=3840&q=75"
+    }
+  ],
+  "experiences": [
+    {
+      "title": "Rajasthani Rasoi Raat | The Royal Chitran (Chokhi Dhani) | Chennai",
+      "organizer": "by Fanpit",
+      "tag": "Arts & Culture",
+      "date": "Jul 21 - Jan 1",
+      "time": null,
+      "location": "Chennai",
+      "urgency": null,
+      "price": "Free",
+      "image": "https://events.fanpit.live/_next/image?url=https%3A%2F%2Fqmjyigipuj.ap-south-1.awsapprunner.com%2Fevents%2Ffiles%2F687e68badabd20adfc8d9c6a&w=3840&q=75"
+    },
+    {
+      "title": "Brew Your Own Coffee (BYOC) | Vinyl & Brew | Chennai",
+      "organizer": "by Fanpit",
+      "tag": "Food & Drink",
+      "date": "Jul 17 - Jan 1",
+      "time": null,
+      "location": "Chennai",
+      "urgency": null,
+      "price": "₹750",
+      "image": "https://events.fanpit.live/_next/image?url=https%3A%2F%2Fqmjyigipuj.ap-south-1.awsapprunner.com%2Fevents%2Ffiles%2F6878f9b62b4c4336de20b252&w=3840&q=75"
+    },
+    {
+      "title": "Under the Sky | Planetarium Date | Chennai",
+      "organizer": "by Fanpit",
+      "tag": "Date Night & Romance",
+      "date": "Jul 17 - Jan 1",
+      "time": null,
+      "location": "Chennai",
+      "urgency": null,
+      "price": "Free",
+      "image": "https://events.fanpit.live/_next/image?url=https%3A%2F%2Fqmjyigipuj.ap-south-1.awsapprunner.com%2Fevents%2Ffiles%2F6878e5238fc3a9a1122a0ec9&w=3840&q=75"
+    },
+    {
+      "title": "Squad Speed Day | ECR Speedway | Chennai",
+      "organizer": "by Fanpit",
+      "tag": "Adventure & Adrenaline",
+      "date": "Jul 17 - Jan 1",
+      "time": null,
+      "location": "Kanathur",
+      "urgency": null,
+      "price": "Free",
+      "image": "https://events.fanpit.live/_next/image?url=https%3A%2F%2Fqmjyigipuj.ap-south-1.awsapprunner.com%2Fevents%2Ffiles%2F6878d96e6277196e40d537b2&w=3840&q=75"
+    },
+    {
+      "title": "Book Trek | Solo Date | Chennai",
+      "organizer": "by Fanpit",
+      "tag": "Solo Adventures",
+      "date": "Jul 16 - Jan 1",
+      "time": null,
+      "location": "Chennai",
+      "urgency": null,
+      "price": "Free",
+      "image": "https://events.fanpit.live/_next/image?url=https%3A%2F%2Fqmjyigipuj.ap-south-1.awsapprunner.com%2Fevents%2Ffiles%2F6877cf241697e775bad4b79b&w=3840&q=75"
+    },
+    {
+      "title": "Aquarium Walk | Chetpet EcoPark | Chennai",
+      "organizer": "by Fanpit",
+      "tag": "Family & Kids",
+      "date": "Jul 16 - Jan 1",
+      "time": null,
+      "location": "Chennai",
+      "urgency": null,
+      "price": "Free",
+      "image": "https://events.fanpit.live/_next/image?url=https%3A%2F%2Fqmjyigipuj.ap-south-1.awsapprunner.com%2Fevents%2Ffiles%2F6877c5008fc3a9a1122a0ec2&w=3840&q=75"
+    },
+    {
+      "title": "Museum Walk | Egmore | Chennai",
+      "organizer": "by Fanpit",
+      "tag": "Arts & Culture",
+      "date": "Jul 14 - Jan 1",
+      "time": null,
+      "location": "Chennai",
+      "urgency": null,
+      "price": "Free",
+      "image": "https://events.fanpit.live/_next/image?url=https%3A%2F%2Fqmjyigipuj.ap-south-1.awsapprunner.com%2Fevents%2Ffiles%2F68752c976632e13296ec4245&w=3840&q=75"
+    },
+    {
+      "title": "Chaat Affair - A Food Walk | Sowcarpet | Chennai",
+      "organizer": "by Fanpit",
+      "tag": "Food & Drink",
+      "date": "Jul 14 - Jan 1",
+      "time": null,
+      "location": "Chennai",
+      "urgency": null,
+      "price": "Free",
+      "image": "https://events.fanpit.live/_next/image?url=https%3A%2F%2Fqmjyigipuj.ap-south-1.awsapprunner.com%2Fevents%2Ffiles%2F687509366632e13296ec4240&w=3840&q=75"
+    },
+    {
+      "title": "Dakshina Chitra Heritage Museum | ECR | Chennai",
+      "organizer": "by Fanpit",
+      "tag": "Arts & Culture",
+      "date": "Jul 14 - Jan 1",
+      "time": null,
+      "location": "Muthukadu",
+      "urgency": null,
+      "price": "Free",
+      "image": "https://events.fanpit.live/_next/image?url=https%3A%2F%2Fqmjyigipuj.ap-south-1.awsapprunner.com%2Fevents%2Ffiles%2F6874f9186632e13296ec423d&w=3840&q=75"
+    },
+    {
+      "title": "Blue Flag Beach | Kovalam | Chennai",
+      "organizer": "by Fanpit",
+      "tag": "Outdoor & Nature",
+      "date": "Jul 14 - Jan 1",
+      "time": null,
+      "location": "Kovalam",
+      "urgency": null,
+      "price": "Free",
+      "image": "https://events.fanpit.live/_next/image?url=https%3A%2F%2Fqmjyigipuj.ap-south-1.awsapprunner.com%2Fevents%2Ffiles%2F6877aece6277196e40d537a6&w=3840&q=75"
+    },
+    {
+      "title": "Sunrise Lake Run | Nerul Lake (Sea Woods) | Navi Mumbai",
+      "organizer": "by Fanpit",
+      "tag": "Sports & Fitness",
+      "date": "Jul 12 - Jan 1",
+      "time": null,
+      "location": "Navi Mumbai",
+      "urgency": null,
+      "price": "Free",
+      "image": "https://events.fanpit.live/_next/image?url=https%3A%2F%2Fqmjyigipuj.ap-south-1.awsapprunner.com%2Fevents%2Ffiles%2F687166616632e13296ec4225&w=3840&q=75"
+    },
+    {
+      "title": "Date at IKEA | Navi Mumbai",
+      "organizer": "by Fanpit",
+      "tag": "Entertainment & Social",
+      "date": "Jul 11 - Jan 1",
+      "time": null,
+      "location": "Navi Mumbai",
+      "urgency": null,
+      "price": "Free",
+      "image": "https://events.fanpit.live/_next/image?url=https%3A%2F%2Fqmjyigipuj.ap-south-1.awsapprunner.com%2Fevents%2Ffiles%2F687086fcf3da6974b213ab76&w=3840&q=75"
+    }
+  ]
+}
