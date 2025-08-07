@@ -1,5 +1,5 @@
-# Fanpit Conversational Event Concierge
-
+# THIS IS THE FIRST ITERATION OF FANPITFINAL REPO. 
+CHECK THAT OUT FOR LATEST IMPROVEMENT I DID.
 An AI-powered conversational assistant that helps users find, explore, and book free events using natural language queries on the Fanpit platform.
 
 ## Features
